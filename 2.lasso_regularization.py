@@ -23,7 +23,6 @@ print("Lasso Test RMSE:", np.round(np.sqrt(metrics.mean_squared_error(y_test, la
 
 
 
-
 import numpy as np
 import pandas as pd
 from sklearn import metrics
