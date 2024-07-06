@@ -1,3 +1,4 @@
+#pip install tensorflow matplotlib pydot graphviz
 #Graphviz Download
 #pip install pydot graphviz
 
